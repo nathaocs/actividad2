@@ -4,6 +4,6 @@ def operacion(a, b):
     return a + b
 
 def resultado():
-    return operacion(5)
+    return operacion(5,2)
 
 print(resultado())
