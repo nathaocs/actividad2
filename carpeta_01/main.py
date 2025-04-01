@@ -2,7 +2,7 @@
 
 print("Introduce tu nombre: ")
 nombre = input()
-if nombre = "Juan":
+if nombre == "Juan":
     print("Hola Juan")
 else:
     print("Nombre no reconocido")
